@@ -1,0 +1,97 @@
+canonical_identifier: bkk:krp/KR3eb039/v1
+canonical_location: https://kanripo.org/bkk/KR3eb039/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 脈訣闡微
+  identifiers:
+    krp: KR3eb039
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb039.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb039_000.yaml, hash: 'sha256:2b534043680879ed61be784da6c13db0a5fb408e5d84cf502ef372307ce6a842'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb039_000.markers.yaml, hash: 'sha256:e4c96bcc65dc617753088b4e73d240f466e2ab6f3bc76bf6259045c57e1bfb54'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb039_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 363
+  label: 鬼真君脈訣序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb039_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 11187
+  label: 洞垣全書脈訣闡微
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb039_jc_000-d3d2
+    span:
+    - body
+    - 8
+    - 3720
+  label: 第一篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb039_jc_000-d3d3
+    span:
+    - body
+    - 3720
+    - 5748
+  label: 第二篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb039_jc_000-d3d4
+    span:
+    - body
+    - 5748
+    - 9177
+  label: 第三篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb039_jc_000-d3d5
+    span:
+    - body
+    - 9177
+    - 10409
+  label: 第四篇
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eb039_jc_000-d3d6
+    span:
+    - body
+    - 10409
+    - 11187
+  label: 第五篇
+  type: section
+  level: 2
+hash: sha256:56b1cb17849890a20483330fa629535bcf3fcf0e5aea51846ad3a5f5c91cf99a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
